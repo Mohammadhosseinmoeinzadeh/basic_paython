@@ -1,0 +1,8 @@
+# Doubling the user's age
+age = int(input("enter your age: "))
+print(age*2)
+
+#Determining the user's age from the year of birth
+year = int(input("enter your age: "))
+age= 1405-year
+print(age)
